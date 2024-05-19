@@ -1,32 +1,56 @@
 [
   {
     "name": "one",
-    "author": "tk",
+    "author": " ",
     "url": "https://thomasfkelly.github.io/wall01.jpeg",
     "thumbUrl": "https://thomasfkelly.github.io/wall01.jpeg"
   },
   {
     "name": "Two",
-    "author": "tk",
+    "author": " ",
     "url": "https://thomasfkelly.github.io/wall02.jpeg",
     "thumbUrl": "https://thomasfkelly.github.io/wall02.jpeg"
   },
   {
     "name": "three",
-    "author": "tk",
+    "author": " ",
     "url": "https://thomasfkelly.github.io/wall03.png",
     "thumbUrl": "https://thomasfkelly.github.io/wall03.png"
   },
   {
     "name": "four",
-    "author": "tk",
+    "author": " ",
     "url": "https://thomasfkelly.github.io/wall04.png",
     "thumbUrl": "https://thomasfkelly.github.io/wall04.png"
   },
   {
     "name": "five",
-    "author": "tk",
-    "url": "https://thomasfkelly.github.io/214-01.png",
-    "thumbUrl": "https://thomasfkelly.github.io/214-01.png"
+    "author": " ",
+    "url": "https://thomasfkelly.github.io/wall05.jpg",
+    "thumbUrl": "https://thomasfkelly.github.io/wall05.jpg'
+  },
+{
+    "name": "six",
+    "author": " ",
+    "url": "https://thomasfkelly.github.io/wall06.png",
+    "thumbUrl": "https://thomasfkelly.github.io/wall06.png"
+},
+  {
+    "name": "seven",
+    "author": " ",
+    "url": "https://thomasfkelly.github.io/wall07.jpg",
+    "thumbUrl": "https://thomasfkelly.github.io/wall07.jpg"
+},
+  {
+    "name": "eight",
+    "author": " ",
+    "url": "https://thomasfkelly.github.io/wall08.png",
+    "thumbUrl": "https://thomasfkelly.github.io/wall08.png"
+  },
+  {
+    "name": "nine",
+    "author": " ",
+    "url": "https://thomasfkelly.github.io/wall09.png",
+    "thumbUrl": "https://thomasfkelly.github.io/wall09.png"
   }
 ]
